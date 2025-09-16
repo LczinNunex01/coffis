@@ -29,6 +29,15 @@ nav a:hover{
 h1{
 
     color:rgb(73, 26, 26);
-    
+    background-color: bisque;
 
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(73, 26, 26) ;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
